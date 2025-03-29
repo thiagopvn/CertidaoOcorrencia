@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       // URL da sua Web App do Google Apps Script após deploy
       const scriptURL =
-        "https://script.google.com/macros/s/AKfycbxgjmhXvIXGt3arOVcuOHDd8f4kD97RXzZvJx4ImQRa6aaeegSAp1NB1AAwjGQvQ8wh/exec";
+        "https://script.google.com/macros/s/AKfycbxl5d8hoKp23fIz0lvPGGHmgF3Lao0kja-JZ0_fMgVnF0bOuQtVfZvWePOA1xujlbz_/exec";
 
       // Enviar dados para o Google Sheets via Google Apps Script
       const response = await fetch(scriptURL, {
